@@ -1,0 +1,225 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &187910737514822288
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 100058, guid: 5d69fc92af0a9274eb3c90b7bcbeb7bd, type: 3}
+      propertyPath: m_Name
+      value: TutorialNPC
+      objectReference: {fileID: 0}
+    - target: {fileID: 100058, guid: 5d69fc92af0a9274eb3c90b7bcbeb7bd, type: 3}
+      propertyPath: m_TagString
+      value: Interactable
+      objectReference: {fileID: 0}
+    - target: {fileID: 400058, guid: 5d69fc92af0a9274eb3c90b7bcbeb7bd, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -7.0829144
+      objectReference: {fileID: 0}
+    - target: {fileID: 400058, guid: 5d69fc92af0a9274eb3c90b7bcbeb7bd, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.121
+      objectReference: {fileID: 0}
+    - target: {fileID: 400058, guid: 5d69fc92af0a9274eb3c90b7bcbeb7bd, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 8.798668
+      objectReference: {fileID: 0}
+    - target: {fileID: 400058, guid: 5d69fc92af0a9274eb3c90b7bcbeb7bd, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.65565366
+      objectReference: {fileID: 0}
+    - target: {fileID: 400058, guid: 5d69fc92af0a9274eb3c90b7bcbeb7bd, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400058, guid: 5d69fc92af0a9274eb3c90b7bcbeb7bd, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.7550618
+      objectReference: {fileID: 0}
+    - target: {fileID: 400058, guid: 5d69fc92af0a9274eb3c90b7bcbeb7bd, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400058, guid: 5d69fc92af0a9274eb3c90b7bcbeb7bd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400058, guid: 5d69fc92af0a9274eb3c90b7bcbeb7bd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 98.062
+      objectReference: {fileID: 0}
+    - target: {fileID: 400058, guid: 5d69fc92af0a9274eb3c90b7bcbeb7bd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects:
+    - {fileID: 152620, guid: 5d69fc92af0a9274eb3c90b7bcbeb7bd, type: 3}
+    - {fileID: 120362, guid: 5d69fc92af0a9274eb3c90b7bcbeb7bd, type: 3}
+    - {fileID: 108972, guid: 5d69fc92af0a9274eb3c90b7bcbeb7bd, type: 3}
+    - {fileID: 100872, guid: 5d69fc92af0a9274eb3c90b7bcbeb7bd, type: 3}
+    - {fileID: 191152, guid: 5d69fc92af0a9274eb3c90b7bcbeb7bd, type: 3}
+    - {fileID: 122082, guid: 5d69fc92af0a9274eb3c90b7bcbeb7bd, type: 3}
+    - {fileID: 160886, guid: 5d69fc92af0a9274eb3c90b7bcbeb7bd, type: 3}
+    - {fileID: 155500, guid: 5d69fc92af0a9274eb3c90b7bcbeb7bd, type: 3}
+    - {fileID: 186596, guid: 5d69fc92af0a9274eb3c90b7bcbeb7bd, type: 3}
+    - {fileID: 167466, guid: 5d69fc92af0a9274eb3c90b7bcbeb7bd, type: 3}
+    - {fileID: 175402, guid: 5d69fc92af0a9274eb3c90b7bcbeb7bd, type: 3}
+    - {fileID: 190414, guid: 5d69fc92af0a9274eb3c90b7bcbeb7bd, type: 3}
+    - {fileID: 127048, guid: 5d69fc92af0a9274eb3c90b7bcbeb7bd, type: 3}
+    - {fileID: 197376, guid: 5d69fc92af0a9274eb3c90b7bcbeb7bd, type: 3}
+    - {fileID: 142616, guid: 5d69fc92af0a9274eb3c90b7bcbeb7bd, type: 3}
+    - {fileID: 166314, guid: 5d69fc92af0a9274eb3c90b7bcbeb7bd, type: 3}
+    - {fileID: 190228, guid: 5d69fc92af0a9274eb3c90b7bcbeb7bd, type: 3}
+    - {fileID: 176492, guid: 5d69fc92af0a9274eb3c90b7bcbeb7bd, type: 3}
+    - {fileID: 178698, guid: 5d69fc92af0a9274eb3c90b7bcbeb7bd, type: 3}
+    m_AddedGameObjects:
+    - targetCorrespondingSourceObject: {fileID: 483726, guid: 5d69fc92af0a9274eb3c90b7bcbeb7bd, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 74744320866096261}
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 100058, guid: 5d69fc92af0a9274eb3c90b7bcbeb7bd, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 5460209491779557855}
+    - targetCorrespondingSourceObject: {fileID: 100058, guid: 5d69fc92af0a9274eb3c90b7bcbeb7bd, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 5584897826057414546}
+  m_SourcePrefab: {fileID: 100100000, guid: 5d69fc92af0a9274eb3c90b7bcbeb7bd, type: 3}
+--- !u!4 &187910737514601246 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 483726, guid: 5d69fc92af0a9274eb3c90b7bcbeb7bd, type: 3}
+  m_PrefabInstance: {fileID: 187910737514822288}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &187910737514789962 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 100058, guid: 5d69fc92af0a9274eb3c90b7bcbeb7bd, type: 3}
+  m_PrefabInstance: {fileID: 187910737514822288}
+  m_PrefabAsset: {fileID: 0}
+--- !u!136 &5460209491779557855
+CapsuleCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 187910737514789962}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Radius: 0.5
+  m_Height: 2.7483118
+  m_Direction: 1
+  m_Center: {x: 0, y: 1.3787144, z: 0}
+--- !u!114 &5584897826057414546
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 187910737514789962}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 85246ee1aa1b8ca4ebb735885374288d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::TutorialNPC
+  indicator: {fileID: 646671462153943881}
+  npcName: TutorialGal
+  tips:
+  - Press WASD to move, Left Shift to run, E to interact with stuff and Left Ctrl
+    to Crouch!
+  - You can pause the game with the Esc key!
+  - In order to shoot you must first aim, that's why you must first press right mouse
+    button to aim and then shoot...
+  - Change weapons with mouse scroll wheel
+  - Remember to take a break here and there or you'll hurt your eyes
+--- !u!1001 &5666020863553343320
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 187910737514601246}
+    m_Modifications:
+    - target: {fileID: 402603115328171255, guid: a5f23dc24038d994a913734af1a4b836, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 402603115328171255, guid: a5f23dc24038d994a913734af1a4b836, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 2.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5069029736938599441, guid: a5f23dc24038d994a913734af1a4b836, type: 3}
+      propertyPath: m_Name
+      value: Exclamation mark
+      objectReference: {fileID: 0}
+    - target: {fileID: 5069029736938599441, guid: a5f23dc24038d994a913734af1a4b836, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5739895332544650205, guid: a5f23dc24038d994a913734af1a4b836, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.13
+      objectReference: {fileID: 0}
+    - target: {fileID: 5739895332544650205, guid: a5f23dc24038d994a913734af1a4b836, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5739895332544650205, guid: a5f23dc24038d994a913734af1a4b836, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5739895332544650205, guid: a5f23dc24038d994a913734af1a4b836, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 5739895332544650205, guid: a5f23dc24038d994a913734af1a4b836, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.0000000010644502
+      objectReference: {fileID: 0}
+    - target: {fileID: 5739895332544650205, guid: a5f23dc24038d994a913734af1a4b836, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.0000000010548703
+      objectReference: {fileID: 0}
+    - target: {fileID: 5739895332544650205, guid: a5f23dc24038d994a913734af1a4b836, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 5739895332544650205, guid: a5f23dc24038d994a913734af1a4b836, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5739895332544650205, guid: a5f23dc24038d994a913734af1a4b836, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5739895332544650205, guid: a5f23dc24038d994a913734af1a4b836, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: a5f23dc24038d994a913734af1a4b836, type: 3}
+--- !u!4 &74744320866096261 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5739895332544650205, guid: a5f23dc24038d994a913734af1a4b836, type: 3}
+  m_PrefabInstance: {fileID: 5666020863553343320}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &646671462153943881 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5069029736938599441, guid: a5f23dc24038d994a913734af1a4b836, type: 3}
+  m_PrefabInstance: {fileID: 5666020863553343320}
+  m_PrefabAsset: {fileID: 0}

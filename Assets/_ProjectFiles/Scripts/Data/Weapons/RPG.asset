@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51d99021eccf5df4faf903554d8f3e5a, type: 3}
+  m_Name: RPG
+  m_EditorClassIdentifier: Assembly-CSharp::WeaponData
+  weaponName: RPG
+  weaponPrefab: {fileID: 7070059892017355701, guid: b54ec225d7bf35b47adc68017a15c1fe, type: 3}
+  damage: 170
+  fireRate: 1
+  range: 100
+  magazineSize: 1
+  reloadTime: 4
+  ammoType: 4
+  shootPointName: ShootPointRPG
+  bulletPrefab: {fileID: 6627285044091320145, guid: 981784beae01abc44a1cd3eb88d0229e, type: 3}
+  shootSound: {fileID: 8300000, guid: aa8782c42361b4545b087dd6d1711a59, type: 3}
+  loopingFireSound: {fileID: 0}
+  reloadSound: {fileID: 8300000, guid: bd3d38b024706084eb47b23e60b0f597, type: 3}
+  muzzleFlashPrefab: {fileID: 192342, guid: 9dbaa227645eac34cbe60aa0be84583d, type: 3}
+  bulletHolePrefab: {fileID: 0}

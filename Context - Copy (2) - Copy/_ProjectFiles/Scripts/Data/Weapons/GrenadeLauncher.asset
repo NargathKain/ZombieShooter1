@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51d99021eccf5df4faf903554d8f3e5a, type: 3}
+  m_Name: GrenadeLauncher
+  m_EditorClassIdentifier: Assembly-CSharp::WeaponData
+  weaponName: GrenadeLauncher
+  weaponPrefab: {fileID: 983581759533595868, guid: 2de118de675a8344ebfabb4d9d202175, type: 3}
+  damage: 120
+  fireRate: 1.5
+  range: 100
+  magazineSize: 5
+  reloadTime: 3.5
+  ammoType: 5
+  shootPointName: ShootPointGrLaun
+  bulletPrefab: {fileID: 7179125384577856039, guid: 1ee28eaed9dbafe469242fc06f35fce2, type: 3}
+  shootSound: {fileID: 0}
+  reloadSound: {fileID: 0}
+  muzzleFlashPrefab: {fileID: 0}
+  bulletHolePrefab: {fileID: 0}
