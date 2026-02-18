@@ -4,6 +4,7 @@
 /[Oo]bj/
 /[Bb]uild/
 /[Bb]uilds/
+!/Builds/Build4/
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
 
@@ -73,6 +74,3 @@ Thumbs.db
 
 # Windows reserved filename
 nul
-
-# Problematic project settings (re-add after fixing if needed)
-ProjectSettings/ProjectSettings.asset
